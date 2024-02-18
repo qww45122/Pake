@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
+      "icon": ["png/feidie_256.ico", "png/feidie_32.ico"],
       "identifier": "com.pake.weread",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/feidie_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
